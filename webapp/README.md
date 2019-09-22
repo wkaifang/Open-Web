@@ -32,7 +32,6 @@ eslint-plugin-vue
 @babel/core
 @babel/cli
 @babel/preset-env
-@babel/preset-typescript
 babel-loader
 babel-eslint
 
@@ -44,7 +43,4 @@ lost
 
 vue-loader
 vue-template-compiler
-
-typescript
-ts-loader
 ```
