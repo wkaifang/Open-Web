@@ -42,6 +42,8 @@
     "precss": "^4.0.0",
     "prettier": "^1.18.2",
     "style-loader": "^1.0.0",
+    "stylelint-config-prettier": "^5.2.0",
+    "stylelint-prettier": "^1.1.1",
     "url-loader": "^2.1.0",
     "webpack": "^4.40.2",
     "webpack-bundle-analyzer": "^3.5.1",
