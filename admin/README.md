@@ -1,19 +1,8 @@
-# Open-Web
-
-Full Stack Template
+# admin
 
 ### 目录结构
 
 ``` shell
-.
-├── README.md
-├── admin
-│   └── package.json
-├── package.json
-├── server
-│   └── package.json
-└── webapp
-    └── package.json
 ```
 
 ### 用到的工具集
