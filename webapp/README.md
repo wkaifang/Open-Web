@@ -37,7 +37,6 @@ eslint-plugin-vue
 
 postcss-loader
 postcss-preset-env
-autoprefixer
 precss
 lost
 

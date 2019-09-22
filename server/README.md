@@ -8,4 +8,6 @@
 ### 用到的工具集
 
 ``` shell
+nodemon
+pm2
 ```
