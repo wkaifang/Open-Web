@@ -27,13 +27,11 @@ prettier
 eslint-config-prettier
 eslint-plugin-prettier
 eslint-plugin-babel
-eslint-plugin-react
 eslint-plugin-vue
 
 @babel/core
 @babel/cli
 @babel/preset-env
-@babel/preset-react
 @babel/preset-typescript
 babel-loader
 babel-eslint
@@ -43,8 +41,6 @@ postcss-preset-env
 autoprefixer
 precss
 lost
-
-react-hot-loader
 
 vue-loader
 vue-template-compiler

@@ -28,7 +28,6 @@ eslint-config-prettier
 eslint-plugin-prettier
 eslint-plugin-babel
 eslint-plugin-react
-eslint-plugin-vue
 
 @babel/core
 @babel/cli
@@ -45,9 +44,6 @@ precss
 lost
 
 react-hot-loader
-
-vue-loader
-vue-template-compiler
 
 typescript
 ts-loader
