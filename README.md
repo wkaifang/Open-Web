@@ -46,8 +46,7 @@ eslint-plugin-prettier
 eslint-plugin-babel
 
 postcss-loader
-postcss-preset-env
-autoprefixer
+postcss-preset-env // 内含autoprefixer
 precss
 lost
 

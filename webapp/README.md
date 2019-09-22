@@ -33,7 +33,6 @@ prettier
 eslint-config-prettier
 eslint-plugin-prettier
 eslint-plugin-babel
-eslint-plugin-vue
 
 postcss-loader
 postcss-preset-env
@@ -42,4 +41,5 @@ lost
 
 vue-loader
 vue-template-compiler
+eslint-plugin-vue
 ```
