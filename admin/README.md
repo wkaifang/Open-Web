@@ -21,14 +21,6 @@ html-webpack-plugin
 clean-webpack-plugin
 mini-css-extract-plugin
 
-eslint
-eslint-loader
-prettier
-eslint-config-prettier
-eslint-plugin-prettier
-eslint-plugin-babel
-eslint-plugin-react
-
 @babel/core
 @babel/cli
 @babel/preset-env
@@ -36,6 +28,14 @@ eslint-plugin-react
 @babel/preset-typescript
 babel-loader
 babel-eslint
+
+eslint
+eslint-loader
+prettier
+eslint-config-prettier
+eslint-plugin-prettier
+eslint-plugin-babel
+eslint-plugin-react
 
 postcss-loader
 postcss-preset-env
