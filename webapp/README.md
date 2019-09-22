@@ -17,12 +17,11 @@ npm install -D @babel/core @babel/cli @babel/preset-env babel-loader
 npm install -D eslint eslint-loader prettier eslint-config-prettier eslint-plugin-prettier
 
 npm install -D postcss-loader postcss-preset-env precss lost
+
+npm install -D vue-loader vue-template-compiler eslint-plugin-vue
 ```
 
 ### todo
 
 ```bash
-vue-loader
-vue-template-compiler
-eslint-plugin-vue
 ```

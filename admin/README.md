@@ -17,13 +17,13 @@ npm install -D @babel/core @babel/cli @babel/preset-env babel-loader
 npm install -D eslint eslint-loader prettier eslint-config-prettier eslint-plugin-prettier
 
 npm install -D postcss-loader postcss-preset-env precss lost
+
+npm install -D @babel/preset-react eslint-plugin-react
 ```
 
 ### todo
 
 ```bash
-@babel/preset-react
-eslint-plugin-react
 react-hot-loader
 
 typescript
