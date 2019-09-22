@@ -2,12 +2,12 @@
 
 ### 目录结构
 
-``` shell
+```bash
 ```
 
 ### 用到的工具集
 
-``` shell
+```bash
 vue-loader
 vue-template-compiler
 eslint-plugin-vue

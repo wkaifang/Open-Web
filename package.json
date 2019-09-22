@@ -1,20 +1,20 @@
 {
-  "name": "full-stack-template",
+  "name": "Open-Web",
   "version": "1.0.0",
-  "description": "",
+  "description": "Full Stack Template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Domy/full-stack-template.git"
+    "url": "git+https://github.com/Domy/Open-Web.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Domy/full-stack-template/issues"
+    "url": "https://github.com/Domy/Open-Web/issues"
   },
-  "homepage": "https://github.com/Domy/full-stack-template#readme"
+  "homepage": "https://github.com/Domy/Open-Web#readme"
 }

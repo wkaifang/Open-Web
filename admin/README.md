@@ -2,12 +2,12 @@
 
 ### 目录结构
 
-``` shell
+```bash
 ```
 
 ### 用到的工具集
 
-``` shell
+```bash
 @babel/preset-react
 eslint-plugin-react
 react-hot-loader
