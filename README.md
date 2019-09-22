@@ -16,12 +16,12 @@ Full Stack Template
     └── package.json
 ```
 
-### 用到的工具集
+### 工程依赖
 
 ``` shell
 webpack
 webpack-cli
-webpack-dev-server
+webpack-dev-server // 或者webpack-dev-middleware
 webpack-merge
 webpack-bundle-analyzer
 style-loader
@@ -36,32 +36,17 @@ mini-css-extract-plugin
 @babel/cli
 @babel/preset-env
 babel-loader
-babel-eslint
 
 eslint
 eslint-loader
 prettier
 eslint-config-prettier
 eslint-plugin-prettier
-eslint-plugin-babel
+babel-eslint // 仅在使用ESLint本身不支持的类型（流）或实验功能时，才需要使用babel-eslint。
+eslint-plugin-babel // 与babel-eslint配套的eslint插件。
 
 postcss-loader
 postcss-preset-env // 内含autoprefixer
 precss
 lost
-
-@babel/preset-react
-eslint-plugin-react
-react-hot-loader
-
-vue-loader
-vue-template-compiler
-eslint-plugin-vue
-
-typescript
-ts-loader
-@babel/preset-typescript
-@babel/plugin-transform-typescript
-@typescript-eslint/parser
-@typescript-eslint/eslint-plugin
 ```
