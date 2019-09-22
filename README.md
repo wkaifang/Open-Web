@@ -18,7 +18,9 @@ Full Stack Template
 
 ### 工程依赖
 
-``` shell
+#### webpack
+
+```bash
 webpack
 webpack-cli
 webpack-dev-server // 或者webpack-dev-middleware
@@ -29,14 +31,22 @@ css-loader
 file-loader
 url-loader
 html-webpack-plugin
-clean-webpack-plugin
 mini-css-extract-plugin
+clean-webpack-plugin
+```
 
+#### Babel
+
+```bash
 @babel/core
 @babel/cli
 @babel/preset-env
 babel-loader
+```
 
+#### ESLint
+
+```bash
 eslint
 eslint-loader
 prettier
@@ -44,7 +54,11 @@ eslint-config-prettier
 eslint-plugin-prettier
 babel-eslint // 仅在使用ESLint本身不支持的类型（流）或实验功能时，才需要使用babel-eslint。
 eslint-plugin-babel // 与babel-eslint配套的eslint插件。
+```
 
+#### PostCSS
+
+```bash
 postcss-loader
 postcss-preset-env // 内含autoprefixer
 precss
