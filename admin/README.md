@@ -24,8 +24,6 @@ mini-css-extract-plugin
 @babel/core
 @babel/cli
 @babel/preset-env
-@babel/preset-react
-@babel/preset-typescript
 babel-loader
 babel-eslint
 
@@ -35,16 +33,20 @@ prettier
 eslint-config-prettier
 eslint-plugin-prettier
 eslint-plugin-babel
-eslint-plugin-react
 
 postcss-loader
 postcss-preset-env
-autoprefixer
 precss
 lost
 
+@babel/preset-react
+eslint-plugin-react
 react-hot-loader
 
 typescript
 ts-loader
+@babel/preset-typescript
+@babel/plugin-transform-typescript
+@typescript-eslint/parser
+@typescript-eslint/eslint-plugin
 ```
