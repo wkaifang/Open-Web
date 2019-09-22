@@ -63,4 +63,9 @@ postcss-loader
 postcss-preset-env // 内含autoprefixer
 precss
 lost
+stylelint
+stylelint-config-recommended
+stylelint-config-standard
+stylelint-config-prettier
+stylelint-prettier
 ```
