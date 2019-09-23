@@ -56,13 +56,15 @@ babel-eslint // 仅在使用ESLint本身不支持的类型（流）或实验功�
 eslint-plugin-babel // 与babel-eslint配套的eslint插件。
 ```
 
-#### PostCSS
+#### CSS
 
 ```bash
+less
+less-loader
+
 postcss-loader
 postcss-preset-env // 内含autoprefixer
-precss
-lost
+
 stylelint
 stylelint-config-recommended
 stylelint-config-standard
