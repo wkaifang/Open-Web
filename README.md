@@ -42,6 +42,8 @@ clean-webpack-plugin
 @babel/cli
 @babel/preset-env
 babel-loader
+core-js
+regenerator-runtime
 ```
 
 #### CSS
@@ -61,14 +63,14 @@ eslint
 eslint-loader
 babel-eslint // 仅在使用ESLint本身不支持的类型（流）或实验功能时，才需要使用babel-eslint。
 eslint-plugin-babel // 与babel-eslint配套的eslint插件。
+eslint-plugin-html
 ```
 
 #### stylelint
 
 ```bash
 stylelint
-stylelint-order
-stylelint-webpack-plugin
+stylelint-webpack-plugin // 或者postcss-loader
 stylelint-config-recommended
 stylelint-config-standard
 ```
@@ -96,6 +98,7 @@ react-hot-loader
 ```bash
 vue-loader
 vue-template-compiler
+vue-eslint-parser
 eslint-plugin-vue
 vue-style-loader // 构建Vue SSR应用时，替代style-loader
 ```
