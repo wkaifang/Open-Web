@@ -43,6 +43,8 @@ clean-webpack-plugin
 @babel/preset-env
 babel-loader
 core-js
+@babel/runtime
+babel-plugin-transform-runtime
 regenerator-runtime
 ```
 
@@ -72,7 +74,6 @@ eslint-plugin-html
 stylelint
 stylelint-webpack-plugin // 或者postcss-loader
 stylelint-config-recommended
-stylelint-config-standard
 ```
 
 #### Prettier
