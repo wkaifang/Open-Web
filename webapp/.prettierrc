@@ -1,6 +1,3 @@
 {
-  "extends": [
-    "plugin:prettier/recommended",
-    "prettier/vue"
-  ]
+  "extends": ["plugin:prettier/recommended", "prettier/vue"]
 }
