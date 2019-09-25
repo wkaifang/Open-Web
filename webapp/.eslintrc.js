@@ -10,7 +10,6 @@ module.exports = {
     browser: true,
     es6: true
   },
-  ignore: [],
   extends: ["eslint:recommended", "plugin:prettier/recommended"],
   plugins: [],
   rules: {

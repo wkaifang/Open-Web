@@ -30,6 +30,7 @@ style-loader
 css-loader
 file-loader
 url-loader
+source-map-loader
 html-webpack-plugin
 mini-css-extract-plugin
 clean-webpack-plugin
