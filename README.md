@@ -4,7 +4,7 @@ Full Stack Template
 
 ### 目录结构
 
-``` shell
+```shell
 .
 ├── README.md
 ├── admin
@@ -42,10 +42,10 @@ clean-webpack-plugin
 @babel/cli
 @babel/preset-env
 babel-loader
-core-js
-@babel/runtime
-babel-plugin-transform-runtime
-regenerator-runtime
+
+@babel/runtime // 或者@babel/runtime-corejs2
+@babel/plugin-transform-runtime
+@babel/plugin-syntax-dynamic-import
 ```
 
 #### CSS
